@@ -76,10 +76,6 @@
   top: 50%;
   transform: translateX(-50%) translateY(-50%);
 }
-/* manual color of dropdown selector option */
-option {
-  background-color: #32325d;
-}
 
 /*Loading spinner*/ 
 
@@ -17867,3 +17863,10 @@ Copyright (c) 2015 Daniel Eden
 }
 
 /*# sourceMappingURL=dashboard-free.css.map */
+
+/* PERSONNAL OVERRIDES */
+
+/* manual color of dropdown selector option */
+.option {
+  background-color: #32325d;
+}
