@@ -49,7 +49,7 @@ function login(){
 function logout(){
   hideRepo();
   deleteAllCookies();
-  location.href="../index.html";
+  location.href="./index.html";
 }
 
 function deleteAllCookies() {
