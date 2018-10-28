@@ -12,6 +12,8 @@ Once the client is running, you will have to connect to your github account.
 
 After that, you'll be able to chose, among your owned repositories,  which one you want to analyse.
 
+The website is available at [https://adrienallemand.github.io/TWEB-ClashOfCommit-Client/](https://adrienallemand.github.io/TWEB-ClashOfCommit-Client/)
+
 ## Running the app
 
 ### 1. Clone this repo
