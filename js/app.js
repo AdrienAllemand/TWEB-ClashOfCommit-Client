@@ -186,6 +186,7 @@ function updateUserReposList(repos){
     // console.log(`Repo : ${repo.name}`);
     let option = document.createElement("option");
     option.setAttribute("value", repo.full_name);
+    option.setAttribute("class","form-control");
 
     let text = document.createTextNode(repo.name);
     option.appendChild(text);
