@@ -3,7 +3,7 @@
 // https://medium.freecodecamp.org/environment-settings-in-javascript-apps-c5f9744282b6
 const serverUrl = window.location.hostname === 'localhost'
   ? 'http://localhost:3000'
-  : 'https://heig-vd-ga-server.herokuapp.com';
+  : 'https://afternoon-stream-70340.herokuapp.com/';
 
 
 const defaultSearch = 'octocat';
