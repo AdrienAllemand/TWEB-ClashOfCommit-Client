@@ -76,6 +76,11 @@
   top: 50%;
   transform: translateX(-50%) translateY(-50%);
 }
+/* manual color of dropdown selector option */
+option {
+  background-color: #32325d;
+}
+
 /*Loading spinner*/ 
 
 .lds-dual-ring {
