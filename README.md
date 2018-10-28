@@ -4,6 +4,8 @@ Github analysis client
 
 Authors : Adrien Allemand, Loyse Krug
 
+Link to server-side : [https://github.com/LoyseKrug/TWEB-ClashOfCommit-Server](https://github.com/LoyseKrug/TWEB-ClashOfCommit-Server)
+
 ## Clash of Issues
 
 Clash of issues is an app that compare the number of resolved issues and commits of each member of your team. 
